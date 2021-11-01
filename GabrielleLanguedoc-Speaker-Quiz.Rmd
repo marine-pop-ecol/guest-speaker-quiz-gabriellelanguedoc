@@ -1,0 +1,27 @@
+---
+title: "GabrielleLanguedoc-Speaker-Quiz"
+author: "Gabrielle Languedoc"
+date: "01/11/2021"
+output: pdf_document
+---
+
+## What you learned from the entire speaker series (5 points) 
+
+All the guest speakers presented to us had diverse backgrounds, experiences and areas of expertise. Despite this, an overarching theme from all the lectures was the significance of having diverse skill sets as a researcher. This is important because it allows you to work flexibly in different roles on a wider range of projects and grow more as a scientist. It is also more attractive for future employers/ PI’s if you are well-rounded and can be adaptive to their project needs. Another theme of the lectures that resonated with me was the importance of cultural context for informing conservation management practices. This was highlighted by Karlisa Calwood’s research in fishery management in the Bahamas and again in Sean Godwin’s work with salmon farming in British Columbia. Conservation is inherently a complex issue with many competing agendas. As someone entering the field of ecology, in order for my research to have any meaningful impact I must attempt to understand how and why people engage with the environment I am studying. Interweaving social considerations will in turn allow me to have a better understanding of how to inform sustainable management through research. 
+ 
+## Three vital pieces of information were given to you to succeed as ecologists (6 points)
+
+### 1. Be creative: 
+Often in research integrating techniques from different systems leads to the most interesting results. Use the tools you have in a way that works for you and when things are not working, think outside of the box. Conventional research is not always the most efficient or useful! (Shannon Hennessy)
+
+### 2. Embrace and get curious about uncertainty:
+Scientific paths are incredibly meandering. Explore both the what and the how of science and experimental methods. For most of the projects Emma started, she felt out of her depth but was open to learning new things and had good mentors (Emma Atkinson).
+
+### 3. Learn some basic programming and modern statistics:
+Biology is math. If you are interested in studying modern ecology it is essential to have a foundation of basic R programming and modern statistics to be able to answer interesting research questions. (Sean Godwill)
+
+\newpage
+
+## What information from the lectures you were able to use during the course (4 points)
+
+Information from these lectures that I used during this course include working collaboratively with other researchers and developing a complementary skill sets. All of the projects in this course required group work, during which I learnt from different group members who brought to the table unique expertise on different topics. When uncertain, I was able to reach out to peers in different groups and ask for advice. Additionally, in this course, I applied my new found knowledge of modeling and statistical analysis to ask ecological questions I was interested in. This was especially true during our modeling assignment where I explored sea otter populations’ dynamics. In this project, I used my ecological understanding of sea otter life history and behavior to predict how future population dynamics may change in the presence of increasing white shark predation. During this project, I had to collaborate with my peers in troubleshooting R/GitHub programming as well as strong seek mentorship and support from Cole. These skills are applicable to my future research in that when I see patterns that interest me in nature, I can then develop hypotheses and have a strong enough foundation of statistics to help me understand how I may begin to test these hypotheses. 
